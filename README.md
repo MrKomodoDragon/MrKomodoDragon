@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Visitors
 ![Visitor Count](https://profile-counter.glitch.me/%7BMrKomodoDragon%7D/count.svg)
 
+# My Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrKomodoDragon)](https://github.com/anuraghazra/github-readme-stats)
+
+# Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKomodoDragon&theme=tokyonight)
