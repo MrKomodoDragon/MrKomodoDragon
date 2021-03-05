@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/%7BMrKomodoDragon%7D/count.svg)
 
 ### 🛠 Frameworks/Technologies i work with
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 
 # My Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrKomodoDragon)](https://github.com/anuraghazra/github-readme-stats)
