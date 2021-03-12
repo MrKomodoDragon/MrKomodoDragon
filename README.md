@@ -20,4 +20,35 @@ I am MrKomodoDragon, an aspiring developers who likes coding.
 
 # Some more stats
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 211 Contributions in the Year 2021
+ > 
+> 📦 35.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ██████████████░░░░░░░░░░░   55.56% 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/MrKomodoDragon/MrKomodoDragon/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
