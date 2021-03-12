@@ -34,6 +34,48 @@ I am MrKomodoDragon, an aspiring developers who likes coding.
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    14 commits     ████████████░░░░░░░░░░░░░   48.28% 
+🌆 Daytime    13 commits     ███████████░░░░░░░░░░░░░░   44.83% 
+🌃 Evening    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Tuesday      20 commits     █████████████████░░░░░░░░   68.97% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Thursday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
