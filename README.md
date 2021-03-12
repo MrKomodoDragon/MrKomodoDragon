@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+I am MrKomodoDragon, an aspiring developers who likes coding.
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 I’m currently working on a discord bot, and 
 - 🌱 I’m currently learning Rust, b/c python is boring at times :D
 
 # Visitors
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 # Languages I Use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKomodoDragon&theme=tokyonight)
+
+# Some more stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
