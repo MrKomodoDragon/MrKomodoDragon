@@ -20,11 +20,11 @@ I am MrKomodoDragon, an aspiring developers who likes coding.
 
 # Some more stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 211 Contributions in the Year 2021
+> 🏆 213 Contributions in the Year 2021
  > 
 > 📦 35.3 kB Used in Github's Storage 
  > 
@@ -63,16 +63,22 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 40 mins       ██████████████████████░░░   89.95% 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 4 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+komodo-api               3 hrs 13 mins       ███████████████████░░░░░░   79.12% 
+sir-komodobot            28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
+MrKomodoDragon           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
