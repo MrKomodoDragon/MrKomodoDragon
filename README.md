@@ -1,17 +1,24 @@
 ### Hi there 👋
 
 
-I am MrKomodoDragon, an aspiring developers who likes coding.
+I am MrKomodoDragon.
 
-- 🔭 I’m currently working on a discord bot, and 
-- 🌱 I’m currently learning Rust, b/c python is boring at times :D
+I've been working on a discord bot in python, and an API
+
+I'm learning Rust and Kotlin right now.
+
+
+
 
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/%7BMrKomodoDragon%7D/count.svg)
 
 ### 🛠 Frameworks/Technologies I work with
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/kotlin%20-%2314354C.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
+I know Python the best. Rust and Kotlin, I'm still learning
+
+<details>
 # My Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrKomodoDragon)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -100,3 +107,4 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
