@@ -31,13 +31,13 @@ I know Python the best. Rust and Kotlin, I'm still learning
 
 **🐱 My Github Data** 
 
-> 🏆 414 Contributions in the Year 2021
+> 🏆 416 Contributions in the Year 2021
  > 
 > 📦 102.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -87,11 +87,11 @@ Mac                      31 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████░░░░░░░░░░   61.9% 
-Rust                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Python                   12 repos            ███████████████░░░░░░░░░░   60.0% 
+Rust                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
@@ -101,6 +101,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MrKomodoDragon/MrKomodoDragon/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 </details>
