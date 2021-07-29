@@ -31,13 +31,13 @@ I know Python the best. Rust and Kotlin, I'm still learning
 
 **🐱 My Github Data** 
 
-> 🏆 416 Contributions in the Year 2021
+> 🏆 415 Contributions in the Year 2021
  > 
 > 📦 102.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -70,17 +70,16 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Rust                     20 mins             ████████████████████████░   98.92% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vasan                    20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -101,6 +100,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MrKomodoDragon/MrKomodoDragon/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
 </details>
