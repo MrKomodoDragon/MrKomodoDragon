@@ -27,7 +27,7 @@ I know Python the best. Rust and Kotlin, I'm still learning
 
 # Some more stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
@@ -86,7 +86,7 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████████░░░░░░░░░░   60.0% 
+Python                   11 repos            █████████████░░░░░░░░░░░░   55.0% 
 Rust                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
@@ -100,6 +100,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MrKomodoDragon/MrKomodoDragon/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 </details>
