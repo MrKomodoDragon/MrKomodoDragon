@@ -26,5 +26,6 @@ I know Python the best. Rust and Kotlin, I'm still learning
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrKomodoDragon&show_icons=true" float="right" />
 </span>
 
-
+## Metrics
+![Metrics](https://github.com/MrKomodoDragon/MrKomodoDragon/blob/main/github-metrics.svg)
 
