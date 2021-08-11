@@ -55,6 +55,6 @@ jobs:
           plugin_projects_limit: 4
           repositories: yes
           repositories_affiliations: owner
-          plugin_repositories_batch: 100
+          repositories_batch: 100
           plugin_stargazers: yes
           plugin_traffic: yes
