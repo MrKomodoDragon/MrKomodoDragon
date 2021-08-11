@@ -3,9 +3,11 @@
 
 I am MrKomodoDragon.
 
-I've been working on a discord bot in python, and an API
+I just make random stuff.
 
-I'm learning Rust and Kotlin right now.
+I like manipulating images, and just making random langs (im bad at it.)
+
+
 
 
 
