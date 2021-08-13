@@ -5,9 +5,7 @@ I am MrKomodoDragon.
 
 I just make random stuff.
 
-I like manipulating images, and just making random langs (im bad at it.)
-
-
+I like manipulating images and writing code related to it, and just making random langs (im bad at it.)
 
 
 
@@ -15,11 +13,9 @@ I like manipulating images, and just making random langs (im bad at it.)
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/%7BMrKomodoDragon%7D/count.svg)
 
-### 🛠 Frameworks/Technologies I work with
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/rust%20-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="Rust" src="https://img.shields.io/badge/kotlin%20-%2314354C.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+### Languages I Know
 
-I know Python the best. Rust and Kotlin, I'm still learning
-
+- Python (Somewhat Fluent)
 
 <span float="center" height=200>
   <h2>Github Stats</h2>
