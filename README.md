@@ -16,6 +16,11 @@ I like manipulating images and writing code related to it, and just making rando
 ### Languages I Know
 
 - Python (Somewhat Fluent)
+- Rust (barely, still learning)
+- HTML (not a lang, but i somewhat know it)
+- CSS
+- SQL, specifically Postgresql
+- C++ (barely, still learning)
 
 <span float="center" height=200>
   <h2>Github Stats</h2>
