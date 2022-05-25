@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            647 Commits
+                            648 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -231,14 +231,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.8528152988078" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.8528152988078" y="0" width="12.136243592855237" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.98905889166303" y="0" width="5.903969125552402" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="454.89302801721544" y="0" width="2.45068330862192" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.3437113258374" y="0" width="0.9009052307293032" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="458.2446165565667" y="0" width="0.7616241766533618" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.00624073322007" y="0" width="0.5615458370680809" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.5677865702882" y="0" width="0.4322134297118497" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.9819765680963" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.9819765680963" y="0" width="12.139831832582557" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="449.1218084006788" y="0" width="5.769709673232151" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="454.89151807391096" y="0" width="2.4514078853115517" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.34292595922255" y="0" width="0.9011715951867005" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="458.2440975544092" y="0" width="0.7618493608388179" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.00594691524805" y="0" width="0.5617118654660661" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.5676587807141" y="0" width="0.4323412192858894" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -385,13 +385,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 4 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 25.6 characters per line of code written</li>
-                        <li>Mostly pushes code around 16:00</li>
+                        <li>Has approximately 25.5 characters per line of code written</li>
+                        <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
@@ -1630,6 +1630,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MrKomodoDragon/sequoia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f655036</div>
+                                        <div class="message">more work on parser and hopefully fixed the error</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1694,26 +1714,6 @@
                                     <div class="commit">
                                         <div class="sha">#cc5c608</div>
                                         <div class="message">Add two lines to start the parser<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> (jay help pls</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MrKomodoDragon/sequoia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#96f36e7</div>
-                                        <div class="message">start using chumsky for parser</div>
                                     </div>
                                 </div>
                             </section>
@@ -2238,7 +2238,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 15:22:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 16:22:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
