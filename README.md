@@ -7,7 +7,7 @@ I just make random stuff.
 
 I like manipulating images and writing code related to it, and just making random langs (im bad at it.)
 
-
+Currently I'm working on sequoia, a general purpose language made so I can learn langdev.
 
 
 # Visitors
