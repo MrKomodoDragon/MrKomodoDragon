@@ -1,4 +1,4 @@
-### Hi there 👋
+b### Hi there 👋
 
 
 I am MrKomodoDragon.
@@ -17,8 +17,6 @@ Currently I'm working on sequoia, a general purpose language made so I can learn
 
 - Python (Somewhat Fluent)
 - Rust (barely, still learning)
-- HTML (not a lang, but i somewhat know it)
-- CSS
 - SQL, specifically Postgresql
 - C++ (barely, still learning)
 
